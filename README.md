@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Luwam Habtu
 
-<!--
-**luwamhabtu07/luwamhabtu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Applied Science in Application Development  
+Focused on Full-Stack Web Development
 
-Here are some ideas to get you started:
+## 👩🏽‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a full-stack developer passionate about building modern web applications using React, Next.js, NestJS, and PostgreSQL.
+
+## 🚀 Skills
+
+- JavaScript, React, Next.js
+- Node.js, NestJS
+- PostgreSQL, MongoDB
+- AWS Cloud
+- REST APIs
+- Git & GitHub
+
+## 📌 Current Projects
+
+- Next Wave Dev Static Website
+- NWD Central Hub Prototype
+- Services Page Implementation
