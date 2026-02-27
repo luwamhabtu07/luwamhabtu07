@@ -21,3 +21,25 @@ I am a full-stack developer passionate about building modern web applications us
 - Next Wave Dev Static Website
 - NWD Central Hub Prototype
 - Services Page Implementation
+
+
+
+## 💻 Software Tools
+
+| Tool | Tool | Tool |
+|------|------|------|
+| MongoDB | Express | React |
+| Next.js | Node.js | Django |
+| Docker | OAuth | Auth0 |
+| Axios | FastAPI | OpenCV |
+| Chakra UI | Vercel | ElephantSQL |
+| PostgreSQL | SQLite | AWS S3 |
+| Jira | Matplotlib | Kaggle |
+| NumPy | Pandas | Scikit-learn |
+| PyScript | Pytest | Postman |
+| Thunder Client | jQuery | Ajax |
+| Git | GitHub | Gunicorn |
+| Uvicorn | Heroku | Netlify |
+| Trello | VS Code | Linux |
+
+
