@@ -28,8 +28,11 @@ I am a full-stack developer passionate about building modern web applications us
 
 | Tool | Tool | Tool |
 |------|------|------|
-| MongoDB | Express | React |
-| Next.js | Node.js | Django |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) |
+
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |
+
+
 | Docker | OAuth | Auth0 |
 | Axios | FastAPI | OpenCV |
 | Chakra UI | Vercel | ElephantSQL |
