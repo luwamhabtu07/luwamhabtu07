@@ -52,16 +52,6 @@ I am a full-stack developer passionate about building modern web applications us
 <br>CSS3
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"/>
-<br>C#
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
-<br>PHP
-</td>
-
 </tr>
 </table>
 
